@@ -1,5 +1,5 @@
 {% set name = "acryl-datahub" %}
-{% set version = "1.0.0.1" %}
+{% set version = "1.0.0.2" %}
 {% set python_min = "3.10" %}
 {% set python_max = "3.11" %}
 
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/acryl_datahub-{{ version }}.tar.gz
-  sha256: 3abe0c771abc6fefc5c86dee2d5630e2806f98805b3586062bf72f6d1409a06d
+  sha256: c3a6cd2a1b947b57bca80bf735d890dff3688a06319ca46e7b1f997783267c50
 
 build:
   entry_points:

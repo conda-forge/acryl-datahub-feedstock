@@ -144,6 +144,5 @@ Feedstock Maintainers
 =====================
 
 * [@anshbansal](https://github.com/anshbansal/)
-* [@hsheth2](https://github.com/hsheth2/)
 * [@pedro93](https://github.com/pedro93/)
 
